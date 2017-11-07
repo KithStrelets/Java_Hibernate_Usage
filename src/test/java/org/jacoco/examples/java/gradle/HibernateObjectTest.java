@@ -45,6 +45,19 @@ public class HibernateObjectTest {
         hibernateObject.setObjectProduct(hibernateObject.new ObjectProduct());
    }
    
+   /**
+     * Test of metrics.
+     */
+    @Test
+   public void testMetrics() {
+       Metrics.start();
+       HibernateObject instance = new HibernateObject();
+       Set<ConstraintViolation<HibernateObject>> constraintViolations = validator.validate( instance );
+       Metrics.stop();
+       Metrics.getAllMetrics();
+       assertTrue(true);
+   }
+   
     /**
      * Test of validation for null values.
      */

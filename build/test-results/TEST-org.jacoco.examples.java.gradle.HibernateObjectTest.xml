@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.jacoco.examples.java.gradle.HibernateObjectTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2017-11-07T18:37:07" hostname="TOSH" time="1.212">
+  <properties/>
+  <testcase name="testSetThisProduct" classname="org.jacoco.examples.java.gradle.HibernateObjectTest" time="0.004"/>
+  <testcase name="testLengthValidation" classname="org.jacoco.examples.java.gradle.HibernateObjectTest" time="0.973"/>
+  <testcase name="testSizeValidation" classname="org.jacoco.examples.java.gradle.HibernateObjectTest" time="0.012"/>
+  <testcase name="testMetrics" classname="org.jacoco.examples.java.gradle.HibernateObjectTest" time="0.139"/>
+  <testcase name="testAssertTrueValidation" classname="org.jacoco.examples.java.gradle.HibernateObjectTest" time="0.006"/>
+  <testcase name="testPatternValidation" classname="org.jacoco.examples.java.gradle.HibernateObjectTest" time="0.005"/>
+  <testcase name="testPastValidation" classname="org.jacoco.examples.java.gradle.HibernateObjectTest" time="0.002"/>
+  <testcase name="testNullValidation" classname="org.jacoco.examples.java.gradle.HibernateObjectTest" time="0.038"/>
+  <testcase name="testPositiveOrZeroValidation" classname="org.jacoco.examples.java.gradle.HibernateObjectTest" time="0.005"/>
+  <testcase name="testRangeValidation" classname="org.jacoco.examples.java.gradle.HibernateObjectTest" time="0.015"/>
+  <testcase name="testValidValidation" classname="org.jacoco.examples.java.gradle.HibernateObjectTest" time="0.003"/>
+  <testcase name="testEmailValidation" classname="org.jacoco.examples.java.gradle.HibernateObjectTest" time="0.002"/>
+  <system-out><![CDATA[Execution time: 97ms
+Used memory: 8.18mb
+]]></system-out>
+  <system-err><![CDATA[Nov 07, 2017 8:37:05 PM org.hibernate.validator.internal.util.Version <clinit>
+INFO: HV000001: Hibernate Validator 6.0.4.Final
+]]></system-err>
+</testsuite>
