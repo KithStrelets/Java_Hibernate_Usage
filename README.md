@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/KithStrelets/HibernateJava.svg?branch=master)](https://travis-ci.org/KithStrelets/HibernateJava)
-[![codecov](https://codecov.io/gh/KithStrelets/HibernateJava/branch/master/graph/badge.svg)](https://codecov.io/gh/KithStrelets/HibernateJava)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4498e6def8de48968aa943af4654bc33)](https://www.codacy.com/app/KithStrelets/HibernateJava?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KithStrelets/HibernateJava&amp;utm_campaign=Badge_Grade)
-[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/4498e6def8de48968aa943af4654bc33)](https://www.codacy.com/app/KithStrelets/HibernateJava?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KithStrelets/HibernateJava&amp;utm_campaign=Badge_Coverage)
+[![Build Status](https://travis-ci.org/KithStrelets/Java_Hibernate_Usage.svg?branch=master)](https://travis-ci.org/KithStrelets/Java_Hibernate_Usage)
+[![codecov](https://codecov.io/gh/KithStrelets/Java_Hibernate_Usage/branch/master/graph/badge.svg)](https://codecov.io/gh/KithStrelets/Java_Hibernate_Usage)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2232f845fd1c422b851b0d450c36076e)](https://www.codacy.com/app/KithStrelets/Java_Hibernate_Usage?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KithStrelets/Java_Hibernate_Usage&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/2232f845fd1c422b851b0d450c36076e)](https://www.codacy.com/app/KithStrelets/Java_Hibernate_Usage?utm_source=github.com&utm_medium=referral&utm_content=KithStrelets/Java_Hibernate_Usage&utm_campaign=Badge_Coverage)
