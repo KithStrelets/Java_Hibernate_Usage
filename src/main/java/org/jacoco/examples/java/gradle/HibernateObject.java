@@ -13,7 +13,6 @@ import org.hibernate.validator.constraints.*;
  *
  * @author Никита
  */
-   //@JsonIgnoreProperties({"field_object", "field_map"})
 
 public class HibernateObject {
 
@@ -77,25 +76,6 @@ public class HibernateObject {
             name = object.objectName;
             version = object.objectVersion;
         }
-        
-        @Override
-        public String toString(){
-            return name + ": ver" + version;
-        }
     }
     
-//    public Set<ConstraintViolation<Object>> validate(Object object, Validator validator) {
-//        Set<ConstraintViolation<Object>> constraintViolations = validator.validate(object);
-//
-//        System.out.println(object);
-//        System.out.println(String.format("Кол-во ошибок: %d",
-//            constraintViolations.size()));
-//
-//        constraintViolations.forEach((cv) -> {
-//            System.out.println(String
-//                    .format("Внимание, ошибка! property: [%s], value: [%s], message: [%s]",
-//                            cv.getPropertyPath(), cv.getInvalidValue(), cv.getMessage()));
-//            });
-//        return constraintViolations;
-//    }
 }
